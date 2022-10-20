@@ -1,4 +1,4 @@
-###project-dynamodb
+### project-dynamodb
 Repositório de Projecto de Banco de Dados NoSQL Utilizando Amazon DynamoDB
 
 ### Serviço utilizado
